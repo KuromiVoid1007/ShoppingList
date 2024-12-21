@@ -9,6 +9,7 @@
         android:id="@+id/taskCheckBox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:buttonTint="#77dd77"
         android:focusable="false"
         android:focusableInTouchMode="false" />
 
